@@ -1,0 +1,26 @@
+name: CYMManager
+main: fr.craftyourmind.manager.Plugin
+version: 1.0
+commands:
+  cym:
+    description: CYM Manager
+    usage: /<command> help
+permissions:
+    cymmanager.tp:
+       default: op
+    cymmanager.repute:
+       default: op
+    cymmanager.synchronpc:
+       default: op
+    cymmanager.clan.create:
+        default: op
+    cymmanager.clan.join:
+       default: op
+    cymmanager.clan.leave:
+        default: op
+    cymmanager.clan.remove:
+       default: op
+    cymmanager.clan.chef:
+       default: op
+    cymmanager.clan.repute:
+       default: op
