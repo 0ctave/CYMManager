@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: 
-Class-Path: Vault.jar Citizens-1.15.2.jar spigot-1.15.2-R0.1-SNAPSHOT.ja
- r
-

@@ -1,6 +1,9 @@
 name: CYMManager
 main: fr.craftyourmind.manager.Plugin
 version: 1.0
+depend:
+  - Vault
+  - Citizens
 commands:
   cym:
     description: CYM Manager
